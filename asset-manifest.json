@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Find-Recipe.git/static/css/main.1404e183.css",
+    "main.js": "/Find-Recipe.git/static/js/main.91444dff.js",
+    "static/js/787.0c57b470.chunk.js": "/Find-Recipe.git/static/js/787.0c57b470.chunk.js",
+    "static/media/food.mp4": "/Find-Recipe.git/static/media/food.09c8d3b228d806b35f6d.mp4",
+    "index.html": "/Find-Recipe.git/index.html",
+    "main.1404e183.css.map": "/Find-Recipe.git/static/css/main.1404e183.css.map",
+    "main.91444dff.js.map": "/Find-Recipe.git/static/js/main.91444dff.js.map",
+    "787.0c57b470.chunk.js.map": "/Find-Recipe.git/static/js/787.0c57b470.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1404e183.css",
+    "static/js/main.91444dff.js"
+  ]
+}
